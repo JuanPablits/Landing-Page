@@ -1,4 +1,2 @@
-# Portfolio!
- Meu primeiro repositorio feito
- 
-Olá, esse é meu primeiro repositório! eu pretendo mostrar muito sobre python e linguagem (WEB html e css) e espero que se divirta vendo aquilo que eu produzo por aqui, tudo aqui é fruto dos meus estudos por conta.
+LANDING PAGE!
+essa é minha primeira langing page que eu fiz, foi bem trabalhoso e me ensinou muita coisa ao tentar fazer, foi divertido!
